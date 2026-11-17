@@ -1,0 +1,5 @@
+# Rider / Visual Studio local files
+.idea/
+.vs/
+*.sln
+*.sln.DotSettings.user
